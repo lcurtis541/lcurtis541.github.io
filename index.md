@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
 
-You can use the [editor on GitHub](https://github.com/lcurtis541/lcurtis541.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page will be used to help showcase my prograss in my education. I am excited to see how much I learn in the following years.
 
 ### Markdown
 
